@@ -17,7 +17,7 @@
 # please email opensource@seagate.com or cortx-questions@seagate.com.
 #
 # -*- coding: utf-8 -*-
-
+#
 ---
  - hosts: localhost
    gather_facts: no
